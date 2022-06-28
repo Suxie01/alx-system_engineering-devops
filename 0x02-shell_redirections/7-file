@@ -1,3 +1,2 @@
-find . -type f -name \*.gif -exec sh -c \
-'identify -format "%[fx:n>1]\n" "$0" |
-
+#!/bin/bash
+echo "Best School" > \\*\\\\\''"'Best\ School'"'\\\'\\\\*$\\?\\*\\*\\*\\*\\*:\)	
